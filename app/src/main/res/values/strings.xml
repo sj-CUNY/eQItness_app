@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Camera App V.0.5</string>
+    <string name="btn_login">btn_login</string>
+    <string name="btn_link_signup">btn_link_signup</string>
+    <string name="btn_sign_up">btn_sign_up</string>
+    <string name="btn_link_login">btn_link_login</string>
+    <string name="hint_email">hint email</string>
+    <string name="hint_password">hint password</string>
+</resources>
